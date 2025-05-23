@@ -13,6 +13,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan2003&theme=dark)
 
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyan2003&theme=react-dark)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
@@ -26,8 +28,7 @@
 
 ## 🔗 Connect with me
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:abhigyanborah3@gmail.com)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:abhigyanborah3@gmail.com)
 
----
 
 ⭐️ From [your-github-username](https://github.com/your-github-username)
