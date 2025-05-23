@@ -20,7 +20,7 @@
 <!-- Add more badges for your skills -->
 
 ## 📊 GitHub Stats
-![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🔗 Connect with me
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
