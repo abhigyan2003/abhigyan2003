@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m open to mentoring and networking
 - 💬 Ask me about **Python, Machine Learning, and Web Dev**
-- ⚡ Fun fact: I love watching movies and doing photography in my free time!
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan2003&theme=dark)
 
@@ -26,7 +24,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
 
 
 ## 🔗 Connect with me
