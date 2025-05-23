@@ -19,9 +19,10 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-<!-- Add more badges for your skills -->
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 
 ## 📊 GitHub Stats
 ![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&hide_border=true&count_private=true&theme=radical)
