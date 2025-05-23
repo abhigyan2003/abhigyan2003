@@ -6,8 +6,8 @@
 ## About Me
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m open to mentoring and networking
-- 💬 Ask me about **Python, Machine Learning, and Web Dev**
+- 🤝 I’m open networking
+- 💬 Invested on **Python, Machine Learning, and Web Dev**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan2003&theme=dark)
 
