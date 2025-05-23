@@ -1,7 +1,7 @@
 # Hi there, I'm Abhigyan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhigyan-borah-075a88248/))
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/abhigyan2003)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Your Project Name](https://github.com/your-github-username/your-project)
