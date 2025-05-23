@@ -11,6 +11,8 @@
 - 💬 Ask me about **Python, Machine Learning, and Web Dev**
 - ⚡ Fun fact: I love [hobby or fun fact]
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan2003&theme=dark)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
