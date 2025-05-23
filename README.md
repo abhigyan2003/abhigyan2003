@@ -25,9 +25,8 @@
 ![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🔗 Connect with me
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:abhigyanborah3@gmail.com)](mailto:your.email@example.com)
 
 ---
 
