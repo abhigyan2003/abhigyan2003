@@ -10,8 +10,8 @@
 - 💬 Invested on **Python, Machine Learning, and Web Dev**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark)
-
-![GitHub Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=abhigyan2003&theme=github-compact)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark) -->
+![Abhigyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&theme=dark)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
