@@ -11,6 +11,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark)
 
+![GitHub Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=abhigyan2003&theme=github-compact)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
