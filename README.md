@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m open to networking
 - 💬 Invested on **Python, Machine Learning, and Web Dev**
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark) -->
+ ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abhigyan2003&theme=dark) -->
 
 
