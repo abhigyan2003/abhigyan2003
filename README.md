@@ -54,9 +54,7 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan2003&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-    </td>
+   
   </tr>
 </table>
 
