@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/abhigyan2003?label=Follow&style=social)](https://github.com/abhigyan2003)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:abhigyanborah3@gmail.com)
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science undergrad passionate about **Machine Learning** and **Web Technologies**.  
 
@@ -12,7 +12,7 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 - Open to collaborating on **open source, ML, and full-stack projects**
 - Actively seeking opportunities to **network, learn, and contribute**
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <!-- Languages -->
