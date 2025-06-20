@@ -8,19 +8,16 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergrad passionate about building intelligent systems and solving real-world problems with **Machine Learning, Python**, and **Web Technologies**.  
+I'm a Computer Science undergrad passionate about  **Machine Learningand **Web Technologies**.  
 
-- 🌱 Currently learning **Deep Learning**, **LLMs**, and **AI-Powered Applications**
+- 🌱 Currently learning **Deep Learning**, **LLMs**
 - 👯 Open to collaborating on **open source, ML, and full-stack projects**
-- 🧠 Exploring the synergy of **AI + Human-Centered Design**
-- 💬 Ask me about **Python, ML workflows, or how to start in open source**
 - 🤝 Actively seeking opportunities to **network, learn, and contribute**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Scripting
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
@@ -30,7 +27,7 @@ I'm a Computer Science undergrad passionate about building intelligent systems a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </p>
 
-### 🧠 AI / ML / DL
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
@@ -40,21 +37,18 @@ I'm a Computer Science undergrad passionate about building intelligent systems a
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face"/>
 </p>
 
-### 💻 Web & Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+
 </p>
 
-### ⚙️ Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/>
 </p>
 
