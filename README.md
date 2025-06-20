@@ -63,5 +63,4 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 ## 🌐 Let's Connect
 
 📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhigyan-borah-075a88248/)  
-💻 [GitHub](https://github.com/abhigyan2003)
+
