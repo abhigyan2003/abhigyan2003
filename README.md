@@ -51,9 +51,7 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
     <td>
       <img src="https://streak-stats.demolab.com?user=abhigyan2003&theme=dark&hide_border=true" alt="GitHub Streak"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhigyan2003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-    </td>
+
    
   </tr>
 </table>
