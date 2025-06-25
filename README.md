@@ -1,4 +1,4 @@
-# Hi there, I'm Abhigyan 👋
+# Hi there, I'm Abhigyan
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhigyan-borah-075a88248/)
 [![GitHub Followers](https://img.shields.io/github/followers/abhigyan2003?label=Follow&style=social)](https://github.com/abhigyan2003)
