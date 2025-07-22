@@ -46,15 +46,6 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=abhigyan2003&theme=dark&hide_border=true" alt="GitHub Streak"/>
-    </td>
-
-   
-  </tr>
-</table>
 
 ## 🌐 Let's Connect
 
