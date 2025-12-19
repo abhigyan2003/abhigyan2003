@@ -2,12 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhigyan-borah-075a88248/)
 [![GitHub Followers](https://img.shields.io/github/followers/abhigyan2003?label=Follow&style=social)](https://github.com/abhigyan2003)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://abhigyan-borah-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:abhigyanborah3@gmail.com)
 
 ##  About Me
 
 I'm a Computer Science undergrad passionate about **Machine Learning** and **Web Technologies**.  
-
 - Currently into **Deep Learning**, **LLMs**
 - Open to collaborating on **open source, ML, and full-stack projects**
 - Actively seeking opportunities to **network, learn, and contribute**
@@ -22,7 +22,6 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-
   <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
@@ -30,12 +29,10 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face"/>
-
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
@@ -46,8 +43,7 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 
 ## 📊 GitHub Stats
 
-
 ## 🌐 Let's Connect
 
-📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)  
-
+🌐 [Portfolio](https://abhigyan-borah-portfolio.vercel.app/)  
+📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)
