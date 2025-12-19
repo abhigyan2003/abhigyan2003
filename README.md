@@ -45,5 +45,5 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 
 ## 🌐 Let's Connect
 
-🌐 [Portfolio](https://abhigyan-borah-portfolio.vercel.app/)  
+🌐 [Portfolio](https://abhigyanborah-portfolio.vercel.app/)  
 📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)
