@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhigyan-borah-075a88248/)
 [![GitHub Followers](https://img.shields.io/github/followers/abhigyan2003?label=Follow&style=social)](https://github.com/abhigyan2003)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://abhigyan-borah-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://abhigyanborah-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:abhigyanborah3@gmail.com)
 
 ##  About Me
@@ -45,5 +45,5 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
 
 ## 🌐 Let's Connect
 
-🌐 [Portfolio](https://abhigyanborah-portfolio.vercel.app/)  
+
 📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)
