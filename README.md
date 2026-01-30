@@ -41,9 +41,6 @@ I'm a Computer Science undergrad passionate about **Machine Learning** and **Web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/>
 </p>
 
-## 📊 GitHub Stats
-
-## 🌐 Let's Connect
 
 
 📫 [abhigyanborah3@gmail.com](mailto:abhigyanborah3@gmail.com)
